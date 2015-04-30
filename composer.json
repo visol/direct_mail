@@ -1,0 +1,7 @@
+{
+  "name": "directmailteam/direct-mail",
+  "type": "typo3-cms-extension",
+  "description": "Direct Mail",
+  "homepage": "https://github.com/visol/direct_mail",
+  "license": ["GPL-2.0+"]
+}
